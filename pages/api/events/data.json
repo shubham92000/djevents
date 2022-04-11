@@ -10,7 +10,7 @@
       "date": "June 09,2021",
       "time": "10:00 PM IST",
       "description": "Featuring deep cuts,party anthems and remixes songs",
-      "image": "../../../public/images/sample.event1.jpg"
+      "image": "/images/sample/event1.jpg"
     },
     {
       "id": "2",
@@ -22,7 +22,7 @@
       "date": "June 2 , 2021",
       "time": "8:00 PM,IST",
       "description": "we will be seeing events return in the summer",
-      "image": "../../../public/images/sample/event2.jpg"
+      "image": "/images/sample/event2.jpg"
     },
     {
       "id": "3",
@@ -34,7 +34,7 @@
       "date": "June 09,2021",
       "time": "10:00 PM IST",
       "description": "Featuring deep cuts,party anthems and remixes songs",
-      "image": "../../../public/images/sample.event1.jpg"
+      "image": "/images/sample/event3.jpg"
     },
     {
       "id": "4",
@@ -46,7 +46,7 @@
       "date": "June 2 , 2021",
       "time": "8:00 PM,IST",
       "description": "we will be seeing events return in the summer",
-      "image": "../../../public/images/sample/event2.jpg"
+      "image": "/images/sample/event4.jpg"
     },
     {
       "id": "5",
@@ -58,7 +58,7 @@
       "date": "June 09,2021",
       "time": "10:00 PM IST",
       "description": "Featuring deep cuts,party anthems and remixes songs",
-      "image": "../../../public/images/sample.event1.jpg"
+      "image": "/images/sample/event5.jpg"
     },
     {
       "id": "6",
@@ -70,7 +70,7 @@
       "date": "June 2 , 2021",
       "time": "8:00 PM,IST",
       "description": "we will be seeing events return in the summer",
-      "image": "../../../public/images/sample/event2.jpg"
+      "image": "/images/sample/event6.jpg"
     }
   ]
 }
